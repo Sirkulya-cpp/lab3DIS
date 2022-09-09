@@ -3,7 +3,7 @@ using GymWebApp.Models;
 using GymWebApp.Repositories;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Configuration;
+
 
 namespace GymWebApp.Controllers
 {
